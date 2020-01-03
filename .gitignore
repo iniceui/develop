@@ -1,2 +1,10 @@
+.cache
+.DS_Store
+.idea
+.vscode
 node_modules
-_book
+docs/dist
+example/dist
+.history
+changelog.generated.md
+package-lock.json
